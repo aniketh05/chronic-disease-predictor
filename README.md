@@ -12,9 +12,11 @@ Data Preprocessing: Data cleaning techniques are applied to remove duplicates an
 
 ### Output
 *Correlation heat map*
+
 ![Capture.PNG](Capture.PNG)
 
 *Distribution plot*
+
 ![Capture1.PNG](Capture1.PNG)
 
 *Result*
