@@ -18,6 +18,7 @@ Data Preprocessing: Data cleaning techniques are applied to remove duplicates an
 ![Capture1.PNG](Capture1.PNG)
 
 *Result*
+
 ![Capture2.PNG](Capture2.PNG)
 
 **Conclusion:** This project emphasizes the significant role of a healthy lifestyle and balanced diet in preventing chronic diseases. By analyzing lifestyle patterns and dietary habits, the study successfully predicts the probability of individuals developing Obesity, Cardiovascular Disease (Cholesterol), and Diabetes. The results underscore the importance of physical activity and dietary choices in reducing the risk of chronic diseases, highlighting the potential for early intervention and prevention. As per the results we understand that Logestic Regression gives better overall results as compared to all other machine learning algorithms.
